@@ -1,5 +1,5 @@
 # headland-286-files
-a collection of files for my headland 276 repair
+a collection of files for my headland 286 repair
 
 These are the files I captured from the 286 using the Saleae logic analyzer software.
 
